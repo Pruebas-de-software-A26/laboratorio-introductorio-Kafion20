@@ -1,0 +1,5 @@
+INFO:root:TEST CASE 1
+INFO:root:PASS
+INFO:root:TEST CASE 2
+INFO:root:FAIL
+ERROR:root:no sireve la funcion de  power
